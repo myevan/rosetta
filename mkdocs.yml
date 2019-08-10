@@ -1,0 +1,6 @@
+site_name: rosetta
+theme: material
+markdown_extensions:
+    - codehilite
+    - toc:
+        permalink: True
